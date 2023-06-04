@@ -1,1 +1,3 @@
-﻿target_sources (Task06 PRIVATE "main.cpp")
+﻿target_sources (Task04 PRIVATE "main.cpp"
+                               "Controller.cpp"
+                               "City.cpp")
